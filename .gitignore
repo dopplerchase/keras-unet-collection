@@ -108,7 +108,6 @@ __pypackages__/
 # PyCharm
 .idea/
 
-
 # Celery stuff
 celerybeat-schedule
 celerybeat.pid
